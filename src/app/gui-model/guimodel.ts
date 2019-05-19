@@ -6,8 +6,13 @@
 
     private _guiModel = {
         "application": {
+<<<<<<< HEAD
             "title": "Sanjis Requirements Engineering Friend Tracker",
              "formList": [
+=======
+            "title": "Sanjais Requirements Engineering Friend Tracker",
+            "formList": [
+>>>>>>> 167b09f37393c0b77b80abd3132a81697cbb880d
                 {
                     "id": "FriendForm",
                     "title": "Friend",
